@@ -1,0 +1,15 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak
+.env.local
+.env.*.local
